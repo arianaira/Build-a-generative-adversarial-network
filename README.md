@@ -1,2 +1,2 @@
-# Build_a_Generative_Adversarial_Network 
+# Coursera Practice
 practice with coursera
